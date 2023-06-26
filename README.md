@@ -5,7 +5,7 @@
 Basta clonar o repositório:
 
 ```
-git clone git@github.com:tryber/sd-024-casa-de-cambio.git
+git clone git@github.com:D-Wolter/casa-cambio.git
 ```
 
 # Casa de Câmbio
